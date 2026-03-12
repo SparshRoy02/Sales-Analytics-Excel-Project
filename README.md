@@ -23,11 +23,11 @@ This project aims to analyze sales data and uncover **key patterns and performan
 The dataset used in this project contains **customer-level sales data** for *AtliQ Hardwares*.
 
 The data includes:
-* Customer names
-* Year-wise sales revenue
-* Market and regional segmentation
-* Net sales performance metrics
-* Year-over-year sales growth
+* **Customer names**
+* **Year-wise sales revenue**
+* **Market and regional segmentation**
+* Net sales **performance metrics**
+* **Year-over-year sales growth**
 
 Sales data is analyzed for the following years:
 * **2019**
@@ -54,7 +54,7 @@ These tools help convert **raw data into meaningful visual insights**.
 
 
 ## Dashboard Features
-The Excel dashboard provides an **interactive analysis of customer sales performance**.
+The Excel report provides an **interactive analysis of customer sales performance**.
 
 Key dashboard features include:
 
@@ -118,24 +118,24 @@ By leveraging analytics, organizations can **make better business decisions and 
 Sales-Analytics-Excel-Project
 │
 ├── data
-│   ├── customers.xls
-│   ├── products.xls
-│   ├── orders.xls
+│   ├── customer.xls
+│   ├── market.xls
+│   ├── product.xls
 │   └── sales.xls
 │
 ├── dashboard
-│   └── sales_dashboard.pdf
+│   └── sales_report.pdf
 │
 └── README.md
 ```
 
 
 ## Dashboard
-The project includes an **Excel-based sales dashboard** that visualizes:
-* Customer net sales performance
-* Revenue comparison across years
-* Sales growth trends
-* Year-over-Year growth percentages
+The project includes an **Excel-based sales report** that visualizes:
+* Customer **net sales performance**
+* **Revenue comparison** across years
+* **Sales growth trends**
+* **Year-over-Year growth percentages**
 The dashboard helps convert **complex sales data into clear visual insights**.
 
 
