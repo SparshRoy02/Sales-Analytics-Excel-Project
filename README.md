@@ -1,6 +1,6 @@
-# Sales Analytics Report using Excel
+## Sales Analytics Report using Excel
 
-## Project Overview
+### Project Overview
 
 This project focuses on **analyzing sales performance using Microsoft Excel** to generate meaningful **business insights** from sales data. The dashboard evaluates **customer performance, revenue trends, and year-over-year sales growth** to support **data-driven decision-making**.
 
@@ -9,7 +9,7 @@ The project demonstrates how **Microsoft Excel can be used for data cleaning, an
 The dashboard analyzes **Net Sales Performance for customers across multiple years (2019–2021)** and highlights sales growth patterns that can help businesses optimize their strategies.
 
 
-## Problem Statement
+### Problem Statement
 Organizations generate **large volumes of sales data**, but without proper analysis it becomes difficult to identify important business insights such as:
 *  Which **customers contribute the most revenue**
 * How **sales are growing or declining over time**
@@ -19,7 +19,7 @@ Organizations generate **large volumes of sales data**, but without proper analy
 This project aims to analyze sales data and uncover **key patterns and performance indicators** that help businesses **monitor performance and improve sales strategies**.
 
 
-## Dataset
+### Dataset
 The dataset used in this project contains **customer-level sales data** for *AtliQ Hardwares*.
 
 The data includes:
@@ -37,7 +37,7 @@ Sales data is analyzed for the following years:
 The dashboard calculates **Year-over-Year (YoY) growth from 2020 to 2021** to evaluate business performance.
 
 
-## Tools and Technologies Used
+### Tools and Technologies Used
 
 The following tools and Excel features were used in this project:
 
@@ -53,7 +53,7 @@ The following tools and Excel features were used in this project:
 These tools help convert **raw data into meaningful visual insights**.
 
 
-## Dashboard Features
+### Dashboard Features
 The Excel report provides an **interactive analysis of customer sales performance**.
 
 Key dashboard features include:
@@ -75,7 +75,7 @@ The dashboard includes filters that allow users to dynamically analyze data by:
 These filters enable users to **drill down into specific segments and analyze sales performance more effectively**.
 
 
-## Key Analysis Performed
+### Key Analysis Performed
 
 The following analyses were performed in the project:
 
@@ -88,7 +88,7 @@ The following analyses were performed in the project:
 This helps identify **business opportunities and areas needing improvement**.
 
 
-## Key Insights
+### Key Insights
 
 Several important insights were derived from the analysis:
 
@@ -100,7 +100,7 @@ Several important insights were derived from the analysis:
 The **overall sales performance increased significantly across the analyzed period**, highlighting strong business growth.
 
 
-## Business Impact
+### Business Impact
 This analysis can help businesses:
 * **Identify top-performing customers**
 * **Improve customer targeting strategies**
@@ -112,7 +112,7 @@ This analysis can help businesses:
 By leveraging analytics, organizations can **make better business decisions and optimize sales operations**.
 
 
-## Project Structure
+### Project Structure
 
 ```
 Sales-Analytics-Excel-Project
@@ -130,7 +130,7 @@ Sales-Analytics-Excel-Project
 ```
 
 
-## Dashboard
+### Dashboard
 The project includes an **Excel-based sales report** that visualizes:
 * Customer **net sales performance**
 * **Revenue comparison** across years
@@ -139,7 +139,7 @@ The project includes an **Excel-based sales report** that visualizes:
 The dashboard helps convert **complex sales data into clear visual insights**.
 
 
-## Conclusion
-This project demonstrates how **Microsoft Excel can be used for sales analytics and business intelligence**. By transforming raw sales data into structured insights, businesses can better understand **customer performance, revenue growth patterns, and overall sales trends**.
+### Conclusion
+This project demonstrates how **Excel can be used for sales analytics and business intelligence**. By transforming raw sales data into structured insights, businesses can better understand **customer performance, revenue growth patterns, and overall sales trends**.
 
 The project highlights the importance of **data analytics in improving business performance, identifying growth opportunities, and enabling strategic decision-making**.
