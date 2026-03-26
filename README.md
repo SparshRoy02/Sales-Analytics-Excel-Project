@@ -1,8 +1,8 @@
-## Sales Analytics Report using Excel
+## Sales Analytics Report
 
 ### Project Overview
 
-This project focuses on **analyzing sales performance using Microsoft Excel** to generate meaningful **business insights** from sales data. The dashboard evaluates **customer performance, revenue trends, and year-over-year sales growth** to support **data-driven decision-making**.
+This project focuses on **analyzing sales performance using Excel** to generate meaningful **business insights** from sales data. The dashboard evaluates **customer performance, revenue trends, and year-over-year sales growth** to support **data-driven decision-making**.
 
 The project demonstrates how **Microsoft Excel can be used for data cleaning, analysis, and interactive dashboard development** to transform raw sales data into actionable insights.
 
